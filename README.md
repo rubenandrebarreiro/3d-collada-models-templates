@@ -1,1 +1,1 @@
-# 3d-collada-models-templates
+# 3D Collada - Models' Templates
